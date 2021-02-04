@@ -1,4 +1,4 @@
-spacy<=2.3.5
+spacy>=2.3.0,<2.4.0
 tldextract>=2.1.0
 requests>=2.18.0
 scikit-learn>=0.19.0
